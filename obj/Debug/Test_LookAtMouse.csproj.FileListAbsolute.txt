@@ -1,0 +1,118 @@
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.Properties.Resources.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.MainForm.resources
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.MainForm.resources
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.Properties.Resources.resources
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.csproj.GenerateResource.Cache
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\bg_grass.jpg
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\gun_fire.gif
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\tank_body_blue.gif
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\tank_body_red.gif
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\tank_gun_blue.gif
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\tank_gun_red.gif
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\sprites\wrench.gif
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.exe
+C:\Users\Kennethrandersen\Desktop\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\bg_grass.jpg
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\gun_fire.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\tank_body_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\tank_body_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\tank_gun_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\tank_gun_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\sprites\wrench.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.MainForm.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.Properties.Resources.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse_updated\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\bg_grass.jpg
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\gun_fire.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\repair.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\wrench.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\bullet.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\bin\Debug\gamefiles\Splash.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.gamefiles.Splash.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\bg_grass.jpg
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\bullet.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\gun_fire.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\repair.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\Splash.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\wrench.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.Properties.Resources.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.gamefiles.Splash.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.GameForm.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\bg_grass.jpg
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\bullet.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\gun_fire.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\repair.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\Splash.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_blue.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_pink.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_blue.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_red.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_blue.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_red.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\gamefiles\wrench.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.pdb
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.GameForm.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.Properties.Resources.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.gamefiles.Splash.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Shared\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes)\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\bg_grass.jpg
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\bullet.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\gun_fire.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\repair.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\Splash.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\tank_body_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\gamefiles\wrench.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\bin\Debug\Test_LookAtMouse.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.GameForm.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.Properties.Resources.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.gamefiles.Splash.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\Test_LookAtMouse(Skal omdøbes) - Copy\Test_LookAtMouse\obj\Debug\Test_LookAtMouse.csproj.GenerateResource.Cache

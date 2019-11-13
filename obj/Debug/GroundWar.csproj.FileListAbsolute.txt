@@ -1,0 +1,414 @@
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\GroundWar.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\GroundWar.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boss.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boulderCCW.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boulderCW.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.pdb
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boss.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\tank_hit.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\GroundWar.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\GroundWar.pdb
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\Programs\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\My Dropbox\Projects\1. Semester\Objekt orienteret programmering i C\GroundWar(Obligatorisk 31-3)\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\My Dropbox\Shared\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\My Dropbox\Shared\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+C:\Users\Kennethrandersen\Documents\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\My Dropbox\Public\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+C:\Users\Kennethrandersen\Documents\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+C:\Users\Kennethrandersen\Documents\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+C:\Users\Kennethrandersen\Documents\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\My Dropbox\Stuff\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+C:\Users\Kmmth\Documents\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+C:\Users\Kmmth\Documents\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+C:\Users\Kmmth\Documents\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResGen.read.1.tlog
+C:\Users\Kenneth\My Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResGen.write.1.tlog
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResGen.read.1.tlog
+D:\Dropbox\Stuff\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\ResGen.write.1.tlog
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+C:\Users\Kenneth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csprojResolveAssemblyReference.cache
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+D:\Work\SPDA - Skole\1 Semester\Game Fundamentals\GroundWar\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.Cache
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bg_grass.jpg
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss_death.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bomb.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boss.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulder.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\boulderccw.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bouldercw.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\bullet.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gameover.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\gun_fire.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\player_death.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\boss_talk.wav
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\gunfire.wav
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\sounds\wrench2.wav
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\Splash.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_blue.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_all_pink.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_body_red.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\tank_gun_red.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\wrench.gif
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\gamefiles\youwin.png
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.XML
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.exe
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\bin\Debug\GroundWar.pdb
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csprojAssemblyReference.cache
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.enterName.resources
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.GameForm.resources
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.HighScores.resources
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.mainMenu.resources
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Properties.Resources.resources
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.Splash.resources
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.csproj.GenerateResource.cache
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.exe
+C:\Users\knnth\Desktop\GroundWar(29-3 Samlet)\GroundWar\obj\Debug\GroundWar.pdb

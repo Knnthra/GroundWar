@@ -1,0 +1,316 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GroundWar</name>
+    </assembly>
+    <members>
+        <member name="M:GroundWar.Keyboard.GetKeyState(System.Int32)">
+            <summary>
+            Use dll user32.dll to get state of key
+            </summary>
+            <param name="keyCode">Key code of key to check</param>
+            <returns></returns>
+        </member>
+        <member name="M:GroundWar.Keyboard.IsKeyDown(System.Windows.Forms.Keys)">
+            <summary>
+            Check to see if keystate is down
+            </summary>
+            <param name="key">Key to look at</param>
+            <returns>Returns true if key is down</returns>
+        </member>
+        <member name="F:GroundWar.enterName.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GroundWar.enterName.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GroundWar.enterName.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GroundWar.Boss.#ctor(System.Drawing.Size)">
+            <summary>
+            Sets the boss' health, position and image
+            </summary>
+            <param name="BackgroundSize">The size of the background image</param>
+        </member>
+        <member name="M:GroundWar.Boss.Animate(System.Boolean@,System.Single)">
+            <summary>
+            Animates the boss' death sequence
+            </summary>
+            <param name="startBossDeathAnim"></param>
+            <param name="factor">Time in seconds it took to complete last frame/loop</param>
+        </member>
+        <member name="M:GroundWar.Boss.MoveY(System.Single,System.Int32)">
+            <summary>
+            Moves the boss' y position based upon Sin(Angle)
+            </summary>
+            <param name="factor">Time in seconds it took to complete last frame/loop</param>
+            <param name="degreeSpeed">Degree's, per second, to move the boss' y-position</param>
+        </member>
+        <member name="M:GroundWar.Boulder.#ctor(System.Drawing.Point,System.String)">
+            <summary>
+            Sets the boulder's image and position
+            </summary>
+            <param name="spawnPosition">The position to spawn/draw the boulder</param>
+            <param name="boulderType">The type of picture to use. "boulder" or "bouldercw" or "boulderccw"</param>
+        </member>
+        <member name="M:GroundWar.Bullet.#ctor(System.Drawing.Size,System.Drawing.Point)">
+            <summary>
+            Sets the bullet's image and position
+            </summary>
+            <param name="BackgroundSize">The size of the background image</param>
+            <param name="tankToSpawnAt">The tank-gameobject, which the bullet will spawn at</param>
+        </member>
+        <member name="M:GroundWar.Enemy.#ctor(System.Drawing.Size,System.Collections.Generic.List{GroundWar.GameObject})">
+            <summary>
+            Determines which type of enemy to be, sets the image and position accordingly. (Making sure that a fast enemy doesnt spawn behind a slow)
+            </summary>
+            <param name="BackgroundSize">The size of the background image</param>
+            <param name="gameworld">The list containing all the active gameobjects</param>
+        </member>
+        <member name="M:GroundWar.HighScores.isNewHigh(System.Int32)">
+            <summary>
+            Sets the currentScore to the score passed from the game, calls the getsetScore(). Then either returns true or false
+            </summary>
+            <param name="score">The gameform's score</param>
+            <returns>Wether the score is higher or equal to the current lowest</returns>
+        </member>
+        <member name="F:GroundWar.HighScores.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GroundWar.HighScores.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GroundWar.HighScores.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:GroundWar.mainMenu.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GroundWar.mainMenu.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GroundWar.mainMenu.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:GroundWar.Splash.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GroundWar.Splash.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GroundWar.Splash.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameObject.GoRect">
+            <summary>
+            Creates a rectangle based on the sprite
+            </summary>
+            <returns>A rectangle based on the sprite</returns>
+        </member>
+        <member name="M:GroundWar.GameObject.Render(GroundWar.GameForm,System.Drawing.Graphics)">
+            <summary>
+            Draws the object on its x and y coordinate. Minus the half of its size, to make its center position 0,0
+            </summary>
+            <param name="GameForm">The GameForm</param>
+            <param name="dc">The Graphics controller used to render gameobjects</param>
+        </member>
+        <member name="M:GroundWar.GameObject.HandleMovement(System.Int32,GroundWar.GameObject)">
+            <summary>
+            Moves the object according to the gamespeed
+            At the same time it returns a boolean value wether it has moved outside the screen
+            </summary>
+            <param name="gameSpeed">gamespeed, based on how long each gameloop takes</param>
+            <param name="go">which gameobject to move</param>
+            <returns>Boolean value, wether the object has moved outside the screen</returns>
+        </member>
+        <member name="M:GroundWar.Player.#ctor(System.Drawing.Point)">
+            <summary>
+            Sets the player's health, image and position
+            </summary>
+            <param name="StartPos">The startposition of the player</param>
+        </member>
+        <member name="M:GroundWar.Player.HandleInput(GroundWar.MoveDirection,System.Int32,System.Drawing.Size)">
+            <summary>
+            Changes the players x and y position, depending on which key is pressed
+            At the same time, the methode keeps the players position from going beyond a certain limit
+            Also handles the gunFire animation
+            </summary>
+            <param name="PressedKey">Which key, if any, is pressed</param>
+            <param name="GameSpeed">The gamespeed, calculated each gameloop-tick</param>
+            <param name="BackgroundSize">The size of the background</param>
+        </member>
+        <member name="M:GroundWar.Player.Animate(System.Boolean@,System.Boolean@,System.Single)">
+            <summary>
+            Handles both the player's fire-animation and on-death animation
+            </summary>
+            <param name="startFireAnim">Wether the fire animation should play</param>
+            <param name="startDeathAnim">Wether the death animation should play</param>
+            <param name="factor">The time, in seconds, it took to complete the last frame/loop</param>
+        </member>
+        <member name="M:GroundWar.Player.GoRect">
+            <summary>
+            The players tank-image is abit bigger than normal, so we need to tweak its rectangle
+            </summary>
+            <returns>A rectangle, based on the player's sprite(the visual part of it)</returns>
+        </member>
+        <member name="M:GroundWar.Player.deathRender(System.Drawing.Graphics)">
+            <summary>
+            Dedicated on-death render method
+            </summary>
+            <param name="dc">The Graphics controller used to draw objects</param>
+        </member>
+        <member name="M:GroundWar.Player.Render(GroundWar.GameForm,System.Drawing.Graphics)">
+            <summary>
+            The player class needs a very unique way of rendering(To be able to rotate the gun), which is why its overriding the Render() method
+            </summary>
+            <param name="tmpMainForm">The GameForm</param>
+            <param name="dc">The Graphics controller used to draw objects</param>
+        </member>
+        <member name="M:GroundWar.Player.gunAngleCalc(System.Drawing.Point)">
+            <summary>
+            Calculates the angle(using phytagoras and cosinus) needed to 'point at' the cursor.
+            </summary>
+            <param name="tmpMousePos_RltGun">Cursor position, relative to the player</param>
+            <returns>An angle, based on the gun and the mouse position</returns>
+        </member>
+        <member name="M:GroundWar.GameForm.ResetGame">
+            <summary>
+            Sets and resets the variables needed to restart the game
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.GameLoop_Tick(System.Object,System.EventArgs)">
+            <summary>
+            Calls the methodes in our gameloop
+            Also determines the gamespeed, based on the time it took to complete the last loop
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:GroundWar.GameForm.Input">
+            <summary>
+            Handles the keyboard input
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.GameLogic">
+            <summary>
+            Handles the pre-boss game logic
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.GameLogicBoss">
+            <summary>
+            Handles the post-boss game logic
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.Physics">
+            <summary>
+            Detects and handles collisions
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.Animation">
+            <summary>
+            Handles/Calls all the animate methods
+            </summary>   
+        </member>
+        <member name="M:GroundWar.GameForm.Render">
+            <summary>
+            Handles the drawing of the objects
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.HUD(System.Drawing.Graphics)">
+            <summary>
+            Draws the players health, score and final end-game screen.
+            </summary>
+            <param name="dc">The graphics controller used to draw the HUD</param>
+        </member>
+        <member name="F:GroundWar.GameForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:GroundWar.GameForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:GroundWar.GameForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:GroundWar.Powerup.#ctor(System.Drawing.Size)">
+            <summary>
+            Determines what kind of powerup this is, and sets its image accordingly
+            </summary>
+            <param name="BackgroundSize">The size of the background image</param>
+        </member>
+        <member name="M:GroundWar.Powerup.GoRect">
+            <summary>
+            Overrides the standard GoRect(). The 'unfriendly powerup' needs to return a rectangle, smaller than its actual picture
+            </summary>
+            <returns>A rectangle, based on wether its a friendly or unfriendly powerup</returns>
+        </member>
+        <member name="M:GroundWar.Powerup.Animate(System.Single)">
+            <summary>
+            Handles the animation of the unfriendly powerup
+            </summary>
+            <param name="factor">Seconds it took for the last gameloop/frame to complete</param>
+            <returns>Wether the animation is done</returns>
+        </member>
+        <member name="M:GroundWar.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:GroundWar.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:GroundWar.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:GroundWar.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
